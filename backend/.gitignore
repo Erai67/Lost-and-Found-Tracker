@@ -1,0 +1,8 @@
+# Node.js
+node_modules/
+.env
+uploads/     # Optional, only if it stores user-uploaded data
+
+# Logs & system files
+*.log
+.DS_Store
