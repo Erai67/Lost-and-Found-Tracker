@@ -80,12 +80,6 @@ The frontend runs on:
 
 ---
 
-## 📸 Screenshots
-
-> _Add UI screenshots here for homepage, report form, match notification, etc._
-
----
-
 ## 🔐 Environment Variables
 
 Backend `.env` file example:
